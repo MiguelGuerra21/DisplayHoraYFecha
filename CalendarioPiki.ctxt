@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CalendarioPiki()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CalendarioPiki\r\n
+comment1.params=nuevoDia\ nuevoMes\ nuevoA\u00F1o
+comment1.target=void\ introducirFecha(int,\ int,\ int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=
+comment2.target=void\ avanzarFecha()
+comment2.text=\r\n\ Permita,\ a\ trav\u00E9s\ de\ un\ m\u00E9todo,\ avanzar\ en\ un\ d\u00EDa\ la\ fecha\ almacenada.\ El\ m\u00E9todo\ deber\u00E1\ de\ preocuparse\ de\ que\ la\ nueva\ fecha\ del\ objeto\ sea\ una\ fecha\ legal\ teniendo\ en\ cuenta\ que\r\n\ No\ vamos\ a\ preocuparnos\ por\ los\ a\u00F1os\ bisiestos.\r\n\ Todos\ los\ meses\ van\ a\ tener\ para\ nosotros\ 30\ d\u00EDas\r\n
+comment3.params=
+comment3.target=java.lang.String\ mostrarFecha()
+comment3.text=\r\n\ metodo\ que\ devuelve\ la\ fecha\ actual\r\n
+numComments=4

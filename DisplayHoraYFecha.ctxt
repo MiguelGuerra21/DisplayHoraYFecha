@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DisplayHoraYFecha()
+comment1.params=
+comment1.target=void\ avanzarMomento()
+comment2.params=hora\ minuto\ day\ month\ year
+comment2.target=void\ setMomento(NumberDisplay,\ NumberDisplay,\ DisplayDosDigitos,\ DisplayDosDigitos,\ DisplayDosDigitos)
+numComments=3
